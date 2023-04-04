@@ -12,7 +12,7 @@ Leider bin ich erst jetzt auf den [EVCC E-Ink Monitor](https://github.com/powell
 
 Beide Projekte haben aber ihre Vor- und Nachteile.
 
-:white_check_mark: Live Daten im Sekundentakt
+:white_check_mark: Live Daten im Sekundentakt (begrenzt durch die evcc Rest API)
 
 :white_check_mark: Einfacher Arduino Sketch
 
