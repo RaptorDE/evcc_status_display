@@ -24,7 +24,7 @@ Beide Projekte haben aber ihre Vor- und Nachteile.
 Für den Anfang setzte ich gewisse Grundkenntnisse mit der Arduino IDE und dem ESP8266 voraus.
 In Zukunft werde ich die Anleitung erweitern.
 
-1. I²C OLED an ESP8266 anschlißen ![https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
+1. I²C OLED an ESP8266 anschlißen [https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
 
 2. Im Arduino Sketch müssen folgende Zeilen angepasst werden:
 
@@ -42,13 +42,18 @@ In Zukunft werde ich die Anleitung erweitern.
 1. hard coded wifi password
 2. Es werden nur die ersten 5 Zeichen des Fahrzeugname angezeigt
 
+## Bugreports
+
+Wenn es zu Fehlern kommt, bitte immer ein Foto vom Display und den Inhalt der API `http://[EVCC-IP]:7070/api/state/` mitschicken.
+
 ## To-do-Liste
+- [ ] Allgemeine Quellcode Verbesserung
 - [ ] mehrere Ladepunkte abwechselnd anzeigen
 - [ ] UI-Anpassung, da bin ich offen für Vorschläge
 - [ ] HD44780 Version
 - [ ] Animationen
 - [ ] Formatierung in kW
-- [ ] evt. OLED Bildschirmschoner ![https://hackaday.com/2019/04/23/a-year-long-experiment-in-oled-burn-in/](https://hackaday.com/2019/04/23/a-year-long-experiment-in-oled-burn-in/)
+- [ ] evt. OLED Bildschirmschoner [https://hackaday.com/2019/04/23/a-year-long-experiment-in-oled-burn-in/](https://hackaday.com/2019/04/23/a-year-long-experiment-in-oled-burn-in/)
 
 ## Danksagung
 
