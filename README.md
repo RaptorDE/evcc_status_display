@@ -41,6 +41,7 @@ In Zukunft werde ich die Anleitung erweitern.
 ## Bekannte Probleme
 1. hard coded wifi password
 2. Es werden nur die ersten 5 Zeichen des Fahrzeugname angezeigt
+3. Bei mehreren Ladepunkten braucht der ESP8266 manchmal länger als eine Sekunde für die API-Abfrage (ca. 2700 Byte), dadurch hängt auch die Uhrzeit.
 
 ## Bugreports
 
@@ -48,6 +49,7 @@ Wenn es zu Fehlern kommt, bitte immer ein Foto vom Display und den Inhalt der AP
 
 ## To-do-Liste
 - [ ] Allgemeine Quellcode Verbesserung
+- [ ] Sonderzeichen im Fahrzeugname
 - [ ] mehrere Ladepunkte abwechselnd anzeigen
 - [ ] UI-Anpassung, da bin ich offen für Vorschläge
 - [ ] HD44780 Version
