@@ -1,5 +1,5 @@
-# evcc_status_display
-EVCC OLED-Statusdisplay
+# EVCC OLED-Statusdisplay
+
 Ich möchte euch mein EVCC OLED-Statusdisplay vorstellen, das die aktuellen Informationen der PV-Anlage und des Elektrofahrzeugs über die [Rest API](https://docs.evcc.io/docs/reference/api#rest-api) abruft und im Sekundentakt aktualisiert.
 
 ![20230404_124741](https://user-images.githubusercontent.com/37591931/229777549-a896dd99-5a06-485f-b2a3-caa352d57e44.jpg) ![20230404_132116](https://user-images.githubusercontent.com/37591931/229777560-df0619e1-b3bd-4ab9-a783-7c1f3cccea69.jpg)
@@ -18,3 +18,13 @@ Beide Projekte haben aber ihre Vor- und Nachteile.
 :x: Konfiguration muss im Quellcode angepasst werden
 
 ![2023-04-04 12_46_49-OLED Emulator](https://user-images.githubusercontent.com/37591931/229775498-e58c3d42-3c2f-434f-9b00-d66f9d7b7302.png)
+
+# Einrichtung
+Für den Anfang setzte ich gewisse Grundkenntnisse mit der Arduino IDE und dem ESP8266 voraus.
+In Zukunft werde ich die Anleitung erweitern.
+
+I²C OLED an ESP8266 anschlißen ![(https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
+
+Im Arduino Sktech müssen follgende Zeilen angepasst werden:
+
+
