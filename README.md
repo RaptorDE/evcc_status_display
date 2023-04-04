@@ -43,6 +43,12 @@ In Zukunft werde ich die Anleitung erweitern.
 2. Es werden nur die ersten 5 Zeichen des Fahrzeugname angezeigt
 3. Bei mehreren Ladepunkten braucht der ESP8266 manchmal länger als eine Sekunde für die API-Abfrage (ca. 2700 Byte), dadurch hängt auch die Uhrzeit.
 
+
+## Bilder
+![2023-04-04 22_14_40-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911890-79789bef-cbe3-4c81-ac8f-40db19a51ee6.png)
+![2023-04-04 22_20_36-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911898-81a13856-f2f5-4d24-8230-a93122d35523.png)
+![2023-04-04 22_21_32-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911915-b1f7ecdf-0c9f-46df-89a3-bcbb2d0c2d60.png)
+
 ## Bugreports
 
 Wenn es zu Fehlern kommt, bitte immer ein Foto vom Display und den Inhalt der API `http://[EVCC-IP]:7070/api/state/` mitschicken.
@@ -67,5 +73,3 @@ Vielen dank an das EVCC Projekt [https://docs.evcc.io/docs/Home/](https://docs.e
 * [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
 * [SSD1306 OLED Emulator](https://github.com/sam-peach/SSD1306-OLED-Emulator)
-
-![2023-04-04 12_46_49-OLED Emulator](https://user-images.githubusercontent.com/37591931/229775498-e58c3d42-3c2f-434f-9b00-d66f9d7b7302.png)
