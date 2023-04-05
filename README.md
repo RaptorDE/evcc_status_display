@@ -54,6 +54,7 @@ In Zukunft werde ich die Anleitung erweitern.
 ![2023-04-04 22_14_40-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911890-79789bef-cbe3-4c81-ac8f-40db19a51ee6.png)
 ![2023-04-04 22_20_36-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911898-81a13856-f2f5-4d24-8230-a93122d35523.png)
 ![2023-04-04 22_21_32-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911915-b1f7ecdf-0c9f-46df-89a3-bcbb2d0c2d60.png)
+![2023-04-05 14_14_02-OLED Emulator](https://user-images.githubusercontent.com/37591931/230086023-cde3cafc-ce7c-4500-82a2-9256dc9d1e42.png)
 
 ## Bugreports
 
