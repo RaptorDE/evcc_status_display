@@ -30,7 +30,7 @@ In Zukunft werde ich die Anleitung erweitern.
 
 * [https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
 
-2. Download Arduino Sketch [evcc_status_display_SSD1306_github_2023_04_04.ino](https://raw.githubusercontent.com/RaptorDE/evcc_status_display/main/evcc_status_display_SSD1306_github_2023_04_04.ino) 
+2. Download Arduino Sketch [evcc_status_display_SSD1306_github_2023_04_05.ino](https://raw.githubusercontent.com/RaptorDE/evcc_status_display/main/evcc_status_display_SSD1306_github_2023_04_05.ino) 
 
 2. Im Arduino Sketch müssen folgende Zeilen angepasst werden:
 
@@ -45,9 +45,9 @@ In Zukunft werde ich die Anleitung erweitern.
 `const char* ntpServer = "0.europe.pool.ntp.org"; // <--- Zeitserver z.B. FritzBox IP oder 0.europe.pool.ntp.org`
 
 ## Bekannte Probleme
-1. hard coded wifi password
-2. Es werden nur die ersten 5 Zeichen des Fahrzeugname angezeigt
-3. Bei mehreren Ladepunkten braucht der ESP8266 manchmal länger als eine Sekunde für die API-Abfrage (ca. 2700 Byte), dadurch hängt auch die Uhrzeit.
+* hard coded wifi password
+* Es werden nur die ersten 5 Zeichen des Fahrzeugname angezeigt
+* Bei mehreren Ladepunkten braucht der ESP8266 manchmal länger als eine Sekunde für die API-Abfrage (ca. 2700 Byte), dadurch hängt auch die Uhrzeit.
 
 
 ## Bilder
