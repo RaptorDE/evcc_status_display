@@ -24,7 +24,11 @@ Beide Projekte haben aber ihre Vor- und Nachteile.
 Für den Anfang setzte ich gewisse Grundkenntnisse mit der Arduino IDE und dem ESP8266 voraus.
 In Zukunft werde ich die Anleitung erweitern.
 
-1. I²C OLED an ESP8266 anschlißen [https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
+1. I²C OLED an ESP8266 anschließen
+
+* [https://znil.net/index.php/ESP8266_Wemos_D1_Mini_mit_0,96_Zoll_OLED_128x64_I2C_volle_Aufl%C3%B6sung_nutzen_Beispiel](https://znil.net/index.php/ESP8266_Wemos_D1_Mini_mit_0,96_Zoll_OLED_128x64_I2C_volle_Aufl%C3%B6sung_nutzen_Beispiel)
+
+* [https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide](https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/)
 
 2. Download Arduino Sketch [evcc_status_display_SSD1306_github_2023_04_04.ino](https://raw.githubusercontent.com/RaptorDE/evcc_status_display/main/evcc_status_display_SSD1306_github_2023_04_04.ino) 
 
