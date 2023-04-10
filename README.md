@@ -61,6 +61,7 @@ In Zukunft werde ich die Anleitung erweitern.
 Wenn es zu Fehlern kommt, bitte immer ein Foto vom Display und den Inhalt der API `http://[EVCC-IP]:7070/api/state/` mitschicken.
 
 ## To-do-Liste
+- [ ] Umschaltung Charge Mode [#1](../../issues/1)
 - [ ] Allgemeine Quellcode Verbesserung
 - [ ] Sonderzeichen im Fahrzeugname
 - [ ] mehrere Ladepunkte abwechselnd anzeigen
