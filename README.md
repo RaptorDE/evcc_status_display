@@ -44,6 +44,9 @@ In Zukunft werde ich die Anleitung erweitern.
 
 `const char* ntpServer = "0.europe.pool.ntp.org"; // <--- Zeitserver z.B. FritzBox IP oder 0.europe.pool.ntp.org`
 
+## Andre I²C OLED Displays verwenden
+2.42" OLED ![https://github.com/evcc-io/evcc/discussions/7211#discussioncomment-6710574](https://github.com/evcc-io/evcc/discussions/7211#discussioncomment-6710574)
+
 ## Bekannte Probleme
 * hard coded wifi password
 * Es werden nur die ersten 5 Zeichen des Fahrzeugname angezeigt
