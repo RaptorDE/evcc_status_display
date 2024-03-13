@@ -84,3 +84,4 @@ Vielen dank an das EVCC Projekt [https://docs.evcc.io/docs/Home/](https://docs.e
 * [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
 * [SSD1306 OLED Emulator](https://github.com/sam-peach/SSD1306-OLED-Emulator)
+* [Icons basieren auf der MDI library](https://pictogrammers.com/library/mdi/) 
