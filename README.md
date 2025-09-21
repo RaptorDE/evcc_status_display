@@ -40,7 +40,7 @@ In Zukunft werde ich die Anleitung erweitern.
 
 `const char* url = "http://192.168.178.10:7070/api/state"; //evcc IP <--- bitte änderen`
 
-`const byte loadpointId = 0; // ab evcc 0.111.0 Nr. 1-255 <--- bitte mit Browser in API nachschauen`
+`const int loadpointIds[] = {0, 1}; //alle loadpointIds mit komma getrennt eintragen z.B. {0, 1, 2} <--- bitte mit Browser in API nachschauen`
 
 `const char* ntpServer = "0.europe.pool.ntp.org"; // <--- Zeitserver z.B. FritzBox IP oder 0.europe.pool.ntp.org`
 
@@ -54,6 +54,7 @@ In Zukunft werde ich die Anleitung erweitern.
 
 
 ## Bilder
+![20250921_105109213](https://github.com/user-attachments/assets/c11600df-49f1-44d1-8a28-e6a3bbc947dc)
 ![2023-04-04 22_14_40-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911890-79789bef-cbe3-4c81-ac8f-40db19a51ee6.png)
 ![2023-04-04 22_20_36-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911898-81a13856-f2f5-4d24-8230-a93122d35523.png)
 ![2023-04-04 22_21_32-OLED Emulator](https://user-images.githubusercontent.com/37591931/229911915-b1f7ecdf-0c9f-46df-89a3-bcbb2d0c2d60.png)
@@ -67,7 +68,7 @@ Wenn es zu Fehlern kommt, bitte immer ein Foto vom Display und den Inhalt der AP
 - [ ] Umschaltung Charge Mode [#1](../../issues/1)
 - [ ] Allgemeine Quellcode Verbesserung
 - [ ] Sonderzeichen im Fahrzeugname
-- [ ] mehrere Ladepunkte abwechselnd anzeigen
+- [x] ~~mehrere Ladepunkte abwechselnd anzeigen~~
 - [ ] UI-Anpassung, da bin ich offen für Vorschläge
 - [ ] HD44780 Version
 - [ ] Animationen
