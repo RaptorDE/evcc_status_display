@@ -50,7 +50,7 @@ In Zukunft werde ich die Anleitung erweitern.
 ## Bekannte Probleme
 * hard coded wifi password
 * Es werden nur die ersten 5 Zeichen des Fahrzeugname angezeigt
-* Bei mehreren Ladepunkten braucht der ESP8266 manchmal länger als eine Sekunde für die API-Abfrage (ca. 2700 Byte), dadurch hängt auch die Uhrzeit.
+* ~~Bei mehreren Ladepunkten braucht der ESP8266 manchmal länger als eine Sekunde für die API-Abfrage (ca. 2700 Byte), dadurch hängt auch die Uhrzeit.~~ (sollte mit Version 2025_09_22 nicht mehr auftreten)
 
 
 ## Bilder
