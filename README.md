@@ -38,7 +38,7 @@ In Zukunft werde ich die Anleitung erweitern.
 
 `const char* password = "PW"; <--- W-LAN Passwort`
 
-`const char* url = "http://192.168.178.10:7070/api/state"; //evcc IP <--- bitte änderen`
+`const char* url = "http://192.168.2.2:7070/api/state?jq={batteryPower,batterySoc,grid,homePower,pvPower,tariffGrid,loadpoints}"; //evcc IP <--- bitte änderen`
 
 `const int loadpointIds[] = {0, 1}; //alle loadpointIds mit komma getrennt eintragen z.B. {0, 1, 2} <--- bitte mit Browser in API nachschauen`
 
